@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SignalRCore/v16
+/SignalRCore/bin/Debug/netcoreapp3.1
+/SignalRCore/obj
